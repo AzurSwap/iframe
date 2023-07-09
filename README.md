@@ -36,7 +36,7 @@ https://iframe.azurswap.org/#/swap?inputCurrency=ETH&outputCurrency=0xdAC17F958D
 ```
 
 In the examples provided, `inputCurrency` is set to `ETH` and `outputCurrency` is set to `0xdAC17F958D2ee523a2206206994597C13D831ec7`. You can use similar parameters with the desired currency addresses to customize the default inputs according to your preference.
-
+![](./iframe_1.png)
 
 To add custom styling, you can modify it as follows:
 
