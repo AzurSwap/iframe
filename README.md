@@ -14,8 +14,6 @@ For example:
 ```
 This will embed the AzurSwap page directly into your website using an iframe.
 
-Certainly! Here's the revised version:
-
 You can customize the input parameters `inputCurrency` and `outputCurrency` to pre-select the desired inputs by default.
 
 For example:
